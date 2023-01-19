@@ -1,3 +1,1 @@
-# Virtual_Assistant
-# Virtual_Assistant
-# Virtual_Assistant
+This is a Python project that creates a virtual assistant name Siri to answer some questions from the users
